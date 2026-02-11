@@ -305,15 +305,15 @@ calcolo assist
 
 
 ## Tecnologie e librerie utilizzate
-• PHP 8.x
-• PostgreSQL 15.x
-• PDO
-• Pecee SimpleRouter 5.x
-• Composer 2.x
-• PHP built-in server
-• Architettura (Routes → Services → Models)
-• CORS custom configuration
-• Upload immagini (filesystem locale – public/uploads)
+- PHP 8.x
+- PostgreSQL 15.x
+- PDO
+- Pecee SimpleRouter 5.x
+- Composer 2.x
+- PHP built-in server
+- Architettura (Routes → Services → Models)
+- CORS custom configuration
+- Upload immagini (filesystem locale – public/uploads)
 
 # Progetto     
 
