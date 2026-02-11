@@ -303,6 +303,18 @@ calcolo goal
 
 calcolo assist
 
+
+## Tecnologie e librerie utilizzate
+• PHP 8.x
+• PostgreSQL 15.x
+• PDO
+• Pecee SimpleRouter 5.x
+• Composer 2.x
+• PHP built-in server
+• Architettura (Routes → Services → Models)
+• CORS custom configuration
+• Upload immagini (filesystem locale – public/uploads)
+
 # Progetto     
 
 Lo Sport scelto è il calco a 5 e il nome della piattaforma è GOALFY ispirato a SPOTIFY colosso della musica ma in ottica del futsal quindi da li il nome Goalfy da goal che rappresenta l'obbiettivo finale del medisimo sport. Il Tournament Manager consiste nella creazione di team, associazione dei team ai tornei creati, vedere i tornei in draft, in corso e conclusi tramite la pagina tornei e si può vedere lo storico tramite la pagina storico con il percorso della squadra vincente in tutte le sue partite fino alla conquista del tornei con MVP, Capocannoniere e miglior Portiere. Ogni Giocatore ha la sua scheda tecnica con info personali, squadra di appartenenza, e numeri del torneo(goal, presenze assist).
